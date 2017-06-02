@@ -6,3 +6,4 @@ This folder contains solutions to the problem of commonlounge competitive progra
 | 			Question Link			|	Code File Name |
 |-----------------------------------|------------------|
 |[LeadGame](http://opc.iarcs.org.in/index.php/problems/LEADGAME)|LEADGAME.py|
+|[Video Game ZCO14001](https://www.codechef.com/ZCOPRAC/problems/ZCO14001)|ZCO14001.py|
