@@ -5,7 +5,7 @@ This folder contains solutions to the problem of commonlounge competitive progra
 
 |      Concept                  | 			Question Link	    	|	  Code File Name  |
 |-------------------------------|-----------------------------------|---------------------|
-||[AVERAGE](http://opc.iarcs.org.in/index.php/problems/AVERAGE)|AVERAGE.py|
+|Used: Sum of pair in array = k |[AVERAGE](http://opc.iarcs.org.in/index.php/problems/AVERAGE)|AVERAGE.py|
 |                               |[LeadGame](http://opc.iarcs.org.in/index.php/problems/LEADGAME)|LEADGAME.py|
 |                               |[PYRAMID](http://opc.iarcs.org.in/index.php/problems/PYRAMID)|PYRAMID_Indraneel_Pyramid.py|
 |3 array Merge                  |[VOTERS](http://opc.iarcs.org.in/index.php/problems/VOTERS)|VOTERS.py|
